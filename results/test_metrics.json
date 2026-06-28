@@ -1,0 +1,23 @@
+{
+  "frozen": {
+    "strategy": "frozen",
+    "test_accuracy": 0.40425531914893614,
+    "test_f1_macro": 0.34503138112364884,
+    "best_dev_acc": 43.57142857142857,
+    "epochs_trained": 20
+  },
+  "late_unfreeze": {
+    "strategy": "late_unfreeze",
+    "test_accuracy": 0.8156028368794326,
+    "test_f1_macro": 0.8076299669322926,
+    "best_dev_acc": 81.42857142857143,
+    "epochs_trained": 20
+  },
+  "partial_unfreeze": {
+    "strategy": "partial_unfreeze",
+    "test_accuracy": 0.6950354609929078,
+    "test_f1_macro": 0.6756284642469925,
+    "best_dev_acc": 65.71428571428571,
+    "epochs_trained": 20
+  }
+}
