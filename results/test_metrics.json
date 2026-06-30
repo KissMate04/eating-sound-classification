@@ -20,4 +20,11 @@
     "best_dev_acc": 65.71428571428571,
     "epochs_trained": 20
   }
+  "unfrozen": {
+    "strategy": "unfrozen",
+    "test_accuracy": 0.8581560283687943,
+    "test_f1_macro": 0.856530304359182,
+    "best_dev_acc": 85.0,
+    "epochs_trained": 20
+  }
 }

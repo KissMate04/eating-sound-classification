@@ -1,0 +1,57 @@
+{
+  "Apple": {
+    "precision": 0.8,
+    "recall": 0.7619047619047619,
+    "f1-score": 0.7804878048780488,
+    "support": 21.0
+  },
+  "Banana": {
+    "precision": 0.72,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.782608695652174,
+    "support": 21.0
+  },
+  "Biscuit": {
+    "precision": 0.9444444444444444,
+    "recall": 0.85,
+    "f1-score": 0.8947368421052632,
+    "support": 20.0
+  },
+  "Crisp": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 21.0
+  },
+  "Haribo": {
+    "precision": 0.8666666666666667,
+    "recall": 0.7222222222222222,
+    "f1-score": 0.7878787878787878,
+    "support": 18.0
+  },
+  "Nectarine": {
+    "precision": 0.7142857142857143,
+    "recall": 0.7894736842105263,
+    "f1-score": 0.75,
+    "support": 19.0
+  },
+  "No_Food": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 21.0
+  },
+  "accuracy": 0.8581560283687943,
+  "macro avg": {
+    "precision": 0.8636281179138322,
+    "recall": 0.8543919322114811,
+    "f1-score": 0.856530304359182,
+    "support": 141.0
+  },
+  "weighted avg": {
+    "precision": 0.8651086344703366,
+    "recall": 0.8581560283687943,
+    "f1-score": 0.8592310747167243,
+    "support": 141.0
+  }
+}
